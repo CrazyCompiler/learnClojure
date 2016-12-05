@@ -1,1 +1,1 @@
-# learnClojure
+# learnClojure by solving project Euler problems
